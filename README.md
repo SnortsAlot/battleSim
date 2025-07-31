@@ -1,4 +1,6 @@
 # BattleSim
+by [Terkikos](https://github.com/SnortsAlot/battleSim/tree/main)
+
 This is a simple 5e encounter simulator. It is showcased in the following Youtube video: https://www.youtube.com/watch?v=A8FNVkFuhXI
 
 ## How it works
@@ -20,7 +22,7 @@ It might change in the future, but for now, the reason this approach was chosen 
 * Install nodejs: https://nodejs.org/en
 * Download node packages: `npm i`
 * Run in dev mode: `npm run dev`
-* Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Open [http://localhost:3000](http://localhost:3003) with your browser to see the result.
 
 ## Directory Structure
 * `public`: images to be displayed on the website
